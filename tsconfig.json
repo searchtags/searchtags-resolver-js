@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "outDir": "./dist/",
+    "noImplicitAny": false,
+    "module": "commonJS",
+    "target": "es5",
+    "allowJs": true
+  },
+  "lib": ["DOM", "ES5", "ScriptHost", "ES2015"]
+}
